@@ -1,5 +1,6 @@
 {
   "name": "vn-translation-tools",
   "description": "Putting here reusable scripts that I used to translate Sokko Aki Muramasa and will use for Kusarihime",
+  "type": "module",
   "version": "0.0.1"
 }
